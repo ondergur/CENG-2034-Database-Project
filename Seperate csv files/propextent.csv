@@ -1,0 +1,5 @@
+propextent;propextent_txt
+3;Minor (likely < $1 million)
+2;Major (likely > $1 million but < $1 billion)
+4;Unknown
+1;Catastrophic (likely > $1 billion)

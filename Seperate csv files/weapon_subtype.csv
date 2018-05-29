@@ -1,0 +1,30 @@
+weapsubtype1;weapsubtype1_txt 
+16;Unknown Explosive Type 
+5;Unknown Gun Type 
+2;Automatic Weapon 
+19;Molotov Cocktail/Petrol Bomb 
+20;Gasoline or Alcohol 
+4;Rifle/Shotgun (non-automatic) 
+18;Arson/Fire 
+11;Projectile (rockets, mortars, RPGs, etc.) 
+15;Vehicle 
+28;Dynamite/TNT 
+17;Other Explosive Type 
+10;Pressure Trigger 
+14;Time Fuse 
+1;Poisoning 
+9;Letter Bomb 
+3;Handgun 
+21;Blunt Object 
+29;Sticky Bomb 
+7;Grenade 
+23;Knife or Other Sharp Object 
+8;Land Mine 
+22;Hands, Feet, Fists 
+12;Remote Trigger 
+24;Rope or Other Strangling Device 
+30;Explosive 
+27;Unknown Weapon Type 
+26;Suffocation 
+13;Suicide (carried bodily by human being) 
+6;Other Gun Type

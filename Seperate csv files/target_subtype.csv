@@ -1,0 +1,111 @@
+targsubtype1;targsubtype1_txt
+68;Named Civilian
+45;Diplomatic Personnel (outside of embassy, consulate)
+54;Radio Journalist/Staff/Facility
+46;Embassy/Consulate
+22;Police Building (headquarters, station, school)
+25;Police Security Forces/Officers
+107;Electricity
+28;Military Recruiting Station/Academy
+21;Government Building/Facility/Office
+27;Military Barracks/Base/Headquarters/Checkpost
+42;Aircraft (not at an airport)
+7;Retail/Grocery/Bakery
+34;Military Personnel (soldiers, troops, officers, forces)
+49;School/University/Educational Building
+4;Multinational Corporation
+110;Party Office/Facility
+76;House/Apartment/Residence
+71;Race/Ethnicity Identified
+14;Judge/Attorney/Court
+23;Police Patrol (including vehicles and convoys)
+86;Place of Worship
+73;Vehicles/Transportation
+99;Bus (excluding tourists)
+15;Politician or Political Party Movement/Meeting/Rally
+8;Hotel/Resort
+44;Airport
+3;Bank/Commerce
+12;Construction
+96;Tour Bus/Van
+100;Train/Train Tracks/Trolley
+69;Religion Identified
+1;Gas/Oil
+53;Newspaper Journalist/Staff/Facility
+32;Military Maritime
+17;Head of State
+11;Entertainment/Cultural/Stadium/Casino
+82;Labor Union Related
+2;Restaurant/Bar/Caf
+81;Museum/Cultural Center/Cultural House
+18;Government Personnel (excluding police, military)
+79;Public Area (garden, parking lot, garage, beach, public building, camp)
+5;Industrial/Textiles/Factory
+62;International NGO
+67;Unnamed Civilian/Unspecified
+84;Political Party Member/Rally
+90;Telephone/Telegraph
+43;Airline Officer/Personnel
+52;Water Supply
+77;Laborer (General)/Occupation Identified
+35;Military Transportation/Vehicle (excluding convoys)
+61;Domestic NGO
+88;Radio
+9;Farm/Ranch
+93;Terrorist
+29;Military Unit/Patrol/Convoy
+64;Fire Fighter/Truck
+50;Other Personnel
+78;Procession/Gathering (funeral, wedding, birthday, religious)
+10;Mining
+108;Oil
+6;Medical/Pharmaceutical
+75;Village/City/Town/Suburb
+80;Memorial/Cemetery/Monument
+47;International Organization (peacekeeper, aid agency, compound)
+87;Affiliated Institution
+95;Tourism Travel Agency
+89;Television
+56;Other (including online news agencies)
+55;Television Journalist/Staff/Facility
+109;Party Official/Candidate/Other Personnel
+104;Highway/Road/Toll/Traffic Signal
+59;Oil Tanker
+98;Other Facility
+97;Tourist
+16;Royalty
+57;Civilian Maritime
+106;Gas
+37;NATO
+31;Military Aircraft
+105;Taxi/Rickshaw
+48;Teacher/Professor/Instructor
+85;Religious Figure
+58;Commercial Maritime
+94;Non-State Militia
+74;Marketplace/Plaza/Square
+26;Prison/Jail
+102;Subway
+101;Bus Station/Stop
+103;Bridge/Car Tunnel
+20;Intelligence
+70;Student
+40;Clinics
+19;Election-related
+92;Multiple Telecommunication Targets
+72;Farmer
+51;Food Supply
+13;Private Security Company/Firm
+60;Port
+24;Police Checkpoint
+83;Protester
+65;Refugee Camp
+39;Paramilitary
+36;Military Checkpoint
+111;Rally
+41;Personnel
+91;Internet Infrastructure
+63;Ambulance
+30;Military Weaponry
+66;Demilitarized Zone (including Green Zone)
+33;Non-combatant Personnel

@@ -1,0 +1,13 @@
+weaptype1;weaptype1_txt 
+13;Unknown 
+6;Explosives/Bombs/Dynamite 
+8;Incendiary 
+5;Firearms 
+2;Chemical 
+7;Fake Weapons 
+9;Melee 
+11;Sabotage Equipment 
+10;Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs) 
+3;Radiological 
+12;Other 
+1;Biological
